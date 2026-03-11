@@ -1,0 +1,4 @@
+Metrics for Students performance in exam model
+RMSE: 8.011073423246035
+MAE: 4.892220177427266
+R2: 0.7420636754996748
